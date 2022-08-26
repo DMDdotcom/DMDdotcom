@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DMDdotcom
+- 👋 Hi, I’m @DMDdotcom\
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack developer
 - 💞️ I’m looking to collaborate on app development, cyber security etc
